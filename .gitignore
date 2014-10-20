@@ -1,1 +1,7 @@
 /target
+.classpath
+.project
+atlassian-ide-plugin.xml
+CDI-CoffeeDecorator.iml
+/.idea
+/.settings
